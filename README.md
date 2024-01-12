@@ -1,1 +1,1 @@
-sample kubernetes objects.
+#sample kubernetes objects.
