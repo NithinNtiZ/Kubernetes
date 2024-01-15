@@ -10,3 +10,8 @@ spec:
     protocol: TCP
     port: 80
     targetPort: http-web-svc
+  endpoints:
+  - addresses:
+      - "10.4.5.6"
+  - addresses:
+      - "10.1.2.3"
